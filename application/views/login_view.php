@@ -3,7 +3,7 @@
 <form action="" method="post">
 <table class="login">
 	<tr>
-		<th colspan="2">Авторизация</th>
+		<th colspan="2">ААвторизация</th>
 	</tr>
 	<tr>
 		<td>Логин</td>
